@@ -5,7 +5,7 @@
     <!-- Splash Screen -->
     <string name="splashTitle">Sion</string>
     <string name="app_name">Sion</string>
-    <string name="version">version 1.00</string>
+    <string name="version">version 1.05</string>
     <string name="developed">By Steve Lovejoy</string>
     <string name="installer">Installer</string>
 
@@ -34,7 +34,6 @@
     <string name="flashbutton2txt">Install your chosen .zip file</string>
     <string name="flashbutton3txt">Choose a File To Delete</string>
     <string name="flashbutton4txt">Delete your chosen .zip\nplease tick the checkbox</string>
-    <string name="flashbutton5txt">Delete previously\ninstalled.zip</string>
     <string name="deleteflashTitle">Root file remover</string>
     <string name="flashconfirmdel">please confirm deletion</string>
 
@@ -70,6 +69,7 @@
     <string name="savecb">checkbox then press the save icon and restart the app</string>
     <string name="ticktoapply">Tick to apply Sions Dark Theme</string>
     <string name="ifyouwantdark">If you want Sion to have a dark ui then tick the</string>
+    <string name="xdaText">Visit the Sion xda thread.</string>
 
     <!-- About -->
     <string name="aboutTV2">Developed by Steve Lovejoy </string>
@@ -78,11 +78,10 @@
 
     <!-- Changelog -->
     <string name="changelog">
-    \nVersion 1.00
-    \nInitial release
-    \nAdded Russian translations
+    \nVersion 1.05
     \n
-    \n
+    \nPlease visit the Sion XDA thread.
+
     </string>
 
     <!-- Donations Screen -->
@@ -104,14 +103,20 @@
     <string name="light">Light</string>
     <string name="dark">Dark</string>
 
-    <!-- App Rater -->
-    <string name="ratereview">Please rate and review this app on the \nGoogle Play Store </string>
-
     <!-- Misc -->
     <string name="content">Image</string>
     <string name="switchTitle">Sion</string>
     <string name="initdtitlechoose">Choose a File</string>
     <string name="romtitlechoose">Choose Files</string>
     <string name="imageReference">this is an image</string>
+
+    <!-- App Rater -->
+    <string name="appirator_app_title">Sion</string>
+    <string name="appirator_market_url">market://details?id=%s</string>
+    <string name="rate_title">Rate Sion</string>
+    <string name="rate_message">If you enjoy using Sion, would you mind taking a moment to rate it? Thanks for your support!</string>
+    <string name="rate">Yes, Rate Sion</string>
+    <string name="rate_later">Remind me later</string>
+    <string name="rate_cancel">No, Thanks</string>
 
 </resources>
